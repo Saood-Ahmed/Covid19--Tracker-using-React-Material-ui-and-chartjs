@@ -58,7 +58,7 @@ export const Card = (props) => {
           </Paper>
         </Grid>
         <Grid item xs={12} md={4} className={classes.recovered}>
-          <Paper className={classes. paperRecovered}>
+          <Paper className={classes.paperRecovered}>
               <Typography variant="h4">Recovered:</Typography>
               <Typography variant="h5">
               <CountUp start={0} end={props.recovered} separator=","/>

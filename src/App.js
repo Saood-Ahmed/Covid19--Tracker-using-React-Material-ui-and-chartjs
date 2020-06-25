@@ -1,4 +1,4 @@
-import React, { Component, Suspense, useState, useEffect } from 'react';
+import React, { Component, Suspense } from 'react';
 import { FetchData } from './components/Api';
 import { Card } from './components/Card';
 import { Chart } from './components/GlobalChart';

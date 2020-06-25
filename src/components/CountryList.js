@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import Countup from 'react-countup';
+// import Countup from 'react-countup';
 import { Bar } from 'react-chartjs-2'; 
 //importing Bar Chart
 
