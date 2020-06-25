@@ -4,7 +4,7 @@ import { Card } from './components/Card';
 import { Chart } from './components/GlobalChart';
 import Container from '@material-ui/core/Container';
 import Typography from '@material-ui/core/Typography';
-import Grid from '@material-ui/core/grid';
+import Grid from '@material-ui/core/Grid';
 import AppBar from '@material-ui/core/AppBar';
 import Toolbar from '@material-ui/core/Toolbar';
 
